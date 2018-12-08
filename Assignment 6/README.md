@@ -13,7 +13,5 @@ Pitt ID: mbn8
 ## Notes
 
 1. The username for authentication is "admin".
-   The plaintext password that is hashed is "maherbestTA".
+   The plaintext password that is hashed is "TestPassword".
    Make sure to type these in correctly when checking authentication.
-2. My JavaScript code is in an external file that is linked to the HTML file.
-   See "static/js/movies.js" for the code.

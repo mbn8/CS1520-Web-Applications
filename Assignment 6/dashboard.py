@@ -13,7 +13,7 @@ api = Api(app, prefix="/api")
 
 auth_user = [{
     "name": "admin",
-    "password": generate_password_hash(password="maherbestTA")
+    "password": generate_password_hash(password="TestPassword")
 }]
 
 
